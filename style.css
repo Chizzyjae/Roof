@@ -569,13 +569,8 @@
 .header1{
     font-size:0.8rem;
 }
-.header2{
-    height:auto;
-}
-
 .header2 > p{
     font-size:1.3rem;
-    height:auto;
 }
 .header3-1{
     width:92%;
